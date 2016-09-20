@@ -1,0 +1,6 @@
+<div class="container">
+<h1>Welcome to the Sample App</h1>
+<p>This is the home page for the Ruby on Rails Tutorial sample
+  application</p>
+<button class="btn" >Sign up now!</button>
+</div>
